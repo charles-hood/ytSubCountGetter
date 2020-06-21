@@ -19,3 +19,10 @@ https://developers.google.com/sheets/api/quickstart/python
 Reference:
 https://developers.google.com/youtube/v3/docs/channels/list
 
+Special case of input URL being a Custom URL for the YouTube Channel handled using Requests HTTP library
+Reference:
+https://requests.readthedocs.io/en/master/
+
+Special shout-out to the #python-general channel on Discord for all the assistance! THANK YOU!
+Reference:  https://discord.gg/python
+
