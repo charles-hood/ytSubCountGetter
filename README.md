@@ -1,5 +1,6 @@
 # ytSubCountGetter
-Quick and dirty Python script to get YouTube channel urls from a Google Sheet and lookup the subscriber count using the YouTube API
+Quick and dirty Python script to get YouTube channel urls from a Google Sheet and lookup the subscriber count using the YouTube API.
+Results are printed to the screen, as well as written to an output file named "subs-output.csv" created in the current directory.
 
 This program started out based on https://github.com/howCodeORG/Python-Sub-Count then glommed together with the examples from the Google API docs. (THANK YOU howCodeORG for sharing your code and getting me jump started.)
 
